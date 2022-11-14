@@ -1,14 +1,14 @@
 {
-  "name": "readme",
-  "version": "1.0.0",
-  "description": "Create a LICENSE file and README with a premade template",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "hello": "bin/index.js"
-  },
-  "author": "Yahya CHAHINE",
-  "license": "ISC"
+	"name": "rdme",
+	"version": "1.0.0",
+	"description": "Create a README with a premade template",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"hello": "bin/index.js"
+	},
+	"author": "Yahya CHAHINE",
+	"license": "ISC"
 }
