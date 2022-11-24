@@ -1,6 +1,6 @@
 {
 	"name": "deschya",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Create a README with a premade template",
 	"main": "index.js",
 	"scripts": {
